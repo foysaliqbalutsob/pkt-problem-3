@@ -33,7 +33,7 @@ This repository contains my **Cisco Packet Tracer lab file (.pkt)** where I have
 ---
 
 ## 📷 Topology Screenshot
-![Cisco Packet Tracer Topology](./topology-screenshot.png)
+![Cisco Packet Tracer Topology](./Screenshot 2025-09-09 143020.png)
 
 ---
 
